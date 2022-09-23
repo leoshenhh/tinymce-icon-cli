@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="design-iconfont">
+  <g data-name="unordered list">
+    <g data-name="组 2645">
+      <path data-name="直线 362" transform="translate(8 4.125)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <path data-name="直线 363" transform="translate(8 12.063)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <path data-name="直线 364" transform="translate(8 19.875)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <path data-name="椭圆 307" transform="translate(2 2.125)" fill="#1f1f1f" d="M2 0A2 2 0 1 0 2 4A2 2 0 1 0 2 0Z"/>
+      <path data-name="椭圆 308" transform="translate(2 10.063)" fill="#1f1f1f" d="M2 0A2 2 0 1 0 2 4A2 2 0 1 0 2 0Z"/>
+      <path data-name="椭圆 309" transform="translate(2 17.875)" fill="#1f1f1f" d="M2 0A2 2 0 1 0 2 4A2 2 0 1 0 2 0Z"/>
+    </g>
+  </g>
+</svg>

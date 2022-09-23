@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #1f1f1f;
+        stroke-width: 1.6px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_notes_insert" transform="translate(-1360 -68)">
+    <g id="&#x7EC4;_2668" data-name="&#x7EC4; 2668" transform="translate(-2 -2)">
+      <g id="&#x692D;&#x5706;_310" data-name="&#x692D;&#x5706; 310" class="cls-1" transform="translate(1363 71)">
+        <circle class="cls-3" cx="11" cy="11" r="11"></circle>
+        <circle class="cls-2" cx="11" cy="11" r="10.2"></circle>
+      </g>
+      <g id="&#x7EC4;_2667" data-name="&#x7EC4; 2667" transform="translate(-0.5 -0.5)">
+        <line id="&#x76F4;&#x7EBF;_385" data-name="&#x76F4;&#x7EBF; 385" class="cls-1" x2="8" transform="translate(1370.5 82.5)"></line>
+        <line id="&#x76F4;&#x7EBF;_386" data-name="&#x76F4;&#x7EBF; 386" class="cls-1" x2="8" transform="translate(1374.5 78.5) rotate(90)"></line>
+      </g>
+    </g>
+    <rect id="&#x77E9;&#x5F62;_1350" data-name="&#x77E9;&#x5F62; 1350" class="cls-2" width="24" height="24" transform="translate(1360 68)"></rect>
+  </g>
+</svg>

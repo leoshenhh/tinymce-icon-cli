@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="design-iconfont">
+  <defs>
+    <clipPath id="wlfzm1qp8__pfrgioz1ba">
+      <path fill="none" d="M0 0H16V9.5H0z"/>
+    </clipPath>
+  </defs>
+  <g data-name="重复网格 170" transform="translate(4 7.25)" clip-path="url(#wlfzm1qp8__pfrgioz1ba)">
+    <path data-name="直线 252" transform="translate(0 .75)" stroke="#1f1f1f" stroke-width="1.4" fill="none" d="M0 0L16 0"/>
+    <path data-name="直线 252" transform="translate(0 4.75)" stroke="#1f1f1f" stroke-width="1.4" fill="none" d="M0 0L16 0"/>
+    <path data-name="直线 252" transform="translate(0 8.75)" stroke="#1f1f1f" stroke-width="1.4" fill="none" d="M0 0L16 0"/>
+  </g>
+</svg>

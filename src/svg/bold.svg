@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1f1f1f;
+        font-size: 22px;
+        font-family: MiSans-Normal, MiSans;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="&#x77E9;&#x5F62;_1333" data-name="&#x77E9;&#x5F62; 1333" class="cls-1" width="24" height="24" transform="translate(952 70)"></rect>
+    </clipPath>
+  </defs>
+  <g id="icon_notes_bold" transform="translate(-952 -70)">
+    <g id="&#x8499;&#x7248;&#x7EC4;_18" data-name="&#x8499;&#x7248;&#x7EC4; 18" class="cls-2">
+      <text id="B" class="cls-3" transform="translate(957 90)">
+        <tspan x="0" y="0">B</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="design-iconfont">
+  <g data-name="icon_notes_ordered list">
+    <g data-name="组 2646">
+      <path data-name="直线 365" transform="translate(8.072 4.27)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <path data-name="直线 366" transform="translate(8.072 12.208)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <path data-name="直线 367" transform="translate(8.072 20.02)" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="1.6" fill="none" d="M0 0L14 0"/>
+      <text data-name="1" transform="translate(2.335 6.5)" fill="#1f1f1f" font-size="5.789" font-family="MiSans-Semibold,MiSans" font-weight="600">
+        <tspan x="0" y="0">1</tspan>
+      </text>
+      <text data-name="2" transform="translate(1.956 14)" fill="#1f1f1f" font-size="5.789" font-family="MiSans-Semibold,MiSans" font-weight="600">
+        <tspan x="0" y="0">2</tspan>
+      </text>
+      <text data-name="3" transform="translate(1.927 21.5)" fill="#1f1f1f" font-size="5.789" font-family="MiSans-Semibold,MiSans" font-weight="600">
+        <tspan x="0" y="0">3</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
